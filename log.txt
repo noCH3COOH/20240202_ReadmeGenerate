@@ -1,11 +1,18 @@
-【源工程】 D:/project/20240201_testProject
+【源工程】 D:/project/20240202_ReadmeGenerate
 【文件结构】
-----20240201_testProject
-    |----info.json   (1009B)
-    |----main.py   (73B)
-    |----printf.py   (41B)
+----20240202_ReadmeGenerate
+    |----config.json   (97B)
+    |----emojiLog.py   (5.1650390625KB)
+    |----fileAnalysis.py   (1.5830078125KB)
+    |----LICENSE   (11.287109375KB)
+    |----log.txt   (0B)
+    |----main.py   (4.521484375KB)
     |----README.md   (0B)
     |----requirements.txt   (0B)
+    |----test.md   (1.30078125KB)
+    |----__pycache__
+    |    |----emojiLog.cpython-312.pyc   (4.2197265625KB)
+    |    |----fileAnalysis.cpython-312.pyc   (2.3671875KB)
 
-【包含文件类型】 ['.json', '.py', '.md', '.txt']
-【文件生成】 D:/project/20240201_testProject/README.md
+【包含文件类型】 ['.json', '.py', '无后缀', '.txt', '.md', '.pyc']
+【文件生成】 D:/project/20240202_ReadmeGenerate/README.md
