@@ -4,7 +4,7 @@
     |----config.json   (97B)
     |----emojiLog.py   (5.1650390625KB)
     |----fileAnalysis.py   (1.5830078125KB)
-    |----info.json   (919B)
+    |----info.json   (1.0322265625KB)
     |----LICENSE   (11.287109375KB)
     |----log.txt   (0B)
     |----main.py   (4.521484375KB)

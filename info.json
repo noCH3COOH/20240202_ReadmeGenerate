@@ -32,6 +32,11 @@
             "time" : "20240202",
             "type" : "submit_first",
             "content" : "首次提交"
+        },
+        "m2" : {
+            "time" : "20240203",
+            "type" : "add_doc",
+            "content" : "更新 readme"
         }
     }
 }
