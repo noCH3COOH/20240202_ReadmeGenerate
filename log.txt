@@ -1,0 +1,11 @@
+【源工程】 D:/project/20240201_testProject
+【文件结构】
+----20240201_testProject
+    |----info.json   (1009B)
+    |----main.py   (73B)
+    |----printf.py   (41B)
+    |----README.md   (0B)
+    |----requirements.txt   (0B)
+
+【包含文件类型】 ['.json', '.py', '.md', '.txt']
+【文件生成】 D:/project/20240201_testProject/README.md
