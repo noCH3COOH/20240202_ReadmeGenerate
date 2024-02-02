@@ -132,7 +132,7 @@ if __name__ == "__main__":
     md.write('## 更新日志\n')
     if flag_infoExist:
         for pm in project_modifies:
-            md.write(pm + '\n')
+            md.write(pm + '\n\n')
     else:
         md.write('自己看代码\n')
     md.write('\n')

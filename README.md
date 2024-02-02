@@ -29,7 +29,7 @@ README 结构是参考了网络很多文章随便弄的，包括
     |----info.json   (1.0322265625KB)
     |----LICENSE   (11.287109375KB)
     |----log.txt   (0B)
-    |----main.py   (4.521484375KB)
+    |----main.py   (4.5234375KB)
     |----README.md   (0B)
     |----requirements.txt   (0B)
     |----test.md   (1.30078125KB)
@@ -71,6 +71,8 @@ python main.py
 ***
 ## 更新日志
 20240202 🎉submit_first: 首次提交
+
 20240203 📝add_doc: 更新 readme
+
 
 ***
