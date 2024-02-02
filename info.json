@@ -1,0 +1,37 @@
+{
+    "project.name" : "Readme生成",
+    "project.creatTime" : "20240202", 
+    "project.functions" : {
+        "f1" : {
+            "brief" : "文件结构分析",
+            "file" : "fileAnalysis.py",
+            "how" : "analysis_file()"
+        },
+        "f2" : {
+            "brief" : "emoji日志生成",
+            "file" : "emojiLog.py",
+            "how" : "emojiLog(update_type, update_log)"
+        }
+    },
+    "project.requirements" : {
+        "r1" : {
+            "name" : "json",
+            "version" : ""
+        },
+        "r2" : {
+            "name" : "tkinter",
+            "version" : ""
+        },
+        "r3" : {
+            "name" : "os",
+            "version" : ""
+        }
+    },
+    "project.modify" : {
+        "m1" : {
+            "time" : "20240202",
+            "type" : "submit_first",
+            "content" : "首次提交"
+        }
+    }
+}

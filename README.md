@@ -1,4 +1,4 @@
-# 20240202_ReadmeGenerate
+# Readme生成
 ***
 ## 目录
 - [项目简介](#项目简介)
@@ -17,6 +17,7 @@
     |----config.json   (97B)
     |----emojiLog.py   (5.1650390625KB)
     |----fileAnalysis.py   (1.5830078125KB)
+    |----info.json   (919B)
     |----LICENSE   (11.287109375KB)
     |----log.txt   (0B)
     |----main.py   (4.521484375KB)
@@ -31,11 +32,19 @@
 
 ***
 ## 功能列表
-自己看代码
+|brief|file|how|
+|:-:|:-:|:-:|
+|文件结构分析|fileAnalysis.py|analysis_file()|
+|emoji日志生成|emojiLog.py|emojiLog(update_type, update_log)|
 
 ***
 ## 依赖
-自己看代码
+json
+
+tkinter
+
+os
+
 
 ***
 ## 安装过程
@@ -45,6 +54,6 @@
 
 ***
 ## 更新日志
-自己看代码
+20240202 🎉submit_first: 首次提交
 
 ***
