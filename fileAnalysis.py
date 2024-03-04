@@ -49,6 +49,8 @@ def calcu_size(size):
         size /= 1024
         count += 1
     
+    size = '%.3f' % size
+    
     if 0 == count:
         return str(size) + 'B'
     elif 1 == count:
