@@ -23,19 +23,19 @@ README 结构是参考了网络很多文章随便弄的，包括
 ### 项目结构
 ``` shell
 ----20240202_ReadmeGenerate
-    |----config.json   (97B)
-    |----emojiLog.py   (5.1650390625KB)
-    |----fileAnalysis.py   (1.5830078125KB)
-    |----info.json   (1.0322265625KB)
-    |----LICENSE   (11.287109375KB)
-    |----log.txt   (0B)
-    |----main.py   (4.5234375KB)
-    |----README.md   (0B)
-    |----requirements.txt   (0B)
-    |----test.md   (1.30078125KB)
+    |----config.json   (97.000B)
+    |----emojiLog.py   (5.165KB)
+    |----fileAnalysis.py   (1.614KB)
+    |----info.json   (1.194KB)
+    |----LICENSE   (11.287KB)
+    |----log.txt   (0.000B)
+    |----main.py   (4.523KB)
+    |----README.md   (0.000B)
+    |----requirements.txt   (0.000B)
+    |----test.md   (1.301KB)
     |----__pycache__
-    |    |----emojiLog.cpython-312.pyc   (4.2197265625KB)
-    |    |----fileAnalysis.cpython-312.pyc   (2.3671875KB)
+    |    |----emojiLog.cpython-312.pyc   (4.220KB)
+    |    |----fileAnalysis.cpython-312.pyc   (2.392KB)
 ```
 包含以下类型的文件：['.json', '.py', '无后缀', '.txt', '.md', '.pyc']
 
@@ -73,6 +73,8 @@ python main.py
 20240202 🎉submit_first: 首次提交
 
 20240203 📝add_doc: 更新 readme
+
+20240304 🚀add_function: 将文件大小保留至三位小数
 
 
 ***

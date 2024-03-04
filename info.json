@@ -37,6 +37,11 @@
             "time" : "20240203",
             "type" : "add_doc",
             "content" : "更新 readme"
+        },
+        "m3" : {
+            "time" : "20240304",
+            "type" : "add_function",
+            "content" : "将文件大小保留至三位小数"
         }
     }
 }
